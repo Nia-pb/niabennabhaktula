@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nia-pb/niabennabhaktula.github.io/static/css/main.7ff58b63.css",
+    "main.js": "/Nia-pb/niabennabhaktula.github.io/static/js/main.64cec93c.js",
+    "static/js/787.a2cb61a6.chunk.js": "/Nia-pb/niabennabhaktula.github.io/static/js/787.a2cb61a6.chunk.js",
+    "static/media/prof.jpeg": "/Nia-pb/niabennabhaktula.github.io/static/media/prof.1f7d2afff57e6c0d7f61.jpeg",
+    "static/media/grid1.png": "/Nia-pb/niabennabhaktula.github.io/static/media/grid1.85088233d1ac202bdcaa.png",
+    "static/media/helvetica-neu.ttf": "/Nia-pb/niabennabhaktula.github.io/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/Nia-pb/niabennabhaktula.github.io/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/tring1.png": "/Nia-pb/niabennabhaktula.github.io/static/media/tring1.0713437fdeb6465d87f4.png",
+    "static/media/NB.png": "/Nia-pb/niabennabhaktula.github.io/static/media/NB.83b0b7bb53ea0fce19a8.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/Nia-pb/niabennabhaktula.github.io/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Nia-pb/niabennabhaktula.github.io/index.html",
+    "main.7ff58b63.css.map": "/Nia-pb/niabennabhaktula.github.io/static/css/main.7ff58b63.css.map",
+    "main.64cec93c.js.map": "/Nia-pb/niabennabhaktula.github.io/static/js/main.64cec93c.js.map",
+    "787.a2cb61a6.chunk.js.map": "/Nia-pb/niabennabhaktula.github.io/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ff58b63.css",
+    "static/js/main.64cec93c.js"
+  ]
+}
