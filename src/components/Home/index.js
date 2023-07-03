@@ -39,6 +39,7 @@ const Home = () =>{
                 idx={15}/> */} 
                 <br/>
                 </h1>
+                <h2>Software Engineer</h2>
                 <h2>
                     I’ve recently graduated with a degree in Computer Science and am excited to 
                     learn more about the tech industry. <br/> I have worked on many projects during 
